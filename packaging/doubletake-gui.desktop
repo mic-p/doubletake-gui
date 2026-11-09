@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Doubletake GUI
+Name[it]=Doubletake GUI
+GenericName=AirPlay screen mirroring
+GenericName[it]=Duplicazione schermo AirPlay
+Comment=Unofficial graphical frontend for omarroth/doubletake with an integrated log
+Comment[it]=Interfaccia grafica non ufficiale per omarroth/doubletake con log integrato
+Exec=/opt/apple/doubletake-gui/run.sh
+TryExec=/opt/apple/doubletake-gui/run.sh
+Icon=/opt/apple/doubletake-gui/icons/doubletake-gui.png
+Terminal=false
+Categories=AudioVideo;Network;Utility;
+Keywords=AirPlay;screen;mirroring;Apple TV;Doubletake;
+Keywords[it]=AirPlay;schermo;mirroring;Apple TV;Doubletake;
+StartupNotify=true
